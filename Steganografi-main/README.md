@@ -1,2 +1,0 @@
-# Steganografi
-Mata kuliah Steganografi
